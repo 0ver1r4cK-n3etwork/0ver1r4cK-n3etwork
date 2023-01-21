@@ -1,2 +1,2 @@
 ### flup 👋
-<img src="bpandattack-jcb-spider-background-moving.gif">
+<img src="background_1.jpg">
