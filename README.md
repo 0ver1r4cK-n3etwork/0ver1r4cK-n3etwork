@@ -1,2 +1,2 @@
 ### flup 👋
-<img src="background_1">
+<img src="../background_1">
