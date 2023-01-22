@@ -50,9 +50,9 @@
       - ASUS RTX 3070 12Go
       <br>
       <b>Storage ✰</b><br> 
-      - 1xSSD M.2 NVMe "Samsung EvoPLUS 256Go" w/ Windows<br>             
-      - 1xSSD SATA "Crucial MX500 256Go" w/ Debian 11<br> 
-      - 2xHDD SATA WesternDigital "WD Black Edition 1To" & "WD Black Edition 500Go"*
+      - 1x SSD M.2 NVMe "Samsung EvoPLUS 256Go" w/ Windows<br>             
+      - 1x SSD SATA "Crucial MX500 256Go" w/ Debian 11<br> 
+      - 2x HDD SATA WesternDigital "WD Black Edition 1To" & "WD Black Edition 500Go"*
       <br>
       <b>Power ✰</b><br> 
       - Corsair TX750W 80 PLUS Certified Power Supply
@@ -62,6 +62,10 @@
       <br>
       <b>Desktop ✰</b><br> 
       - Arozzi ARENA
+      <br>
+      <b>Screens ✰</b><br> 
+      - 1x BenQ ZOWIE 24" 144Hz 1ms 1920x1080 TN<br>
+      - 2x iiyama 24" 75Hz 4ms 1920x1080 VA
       <br>
       <b>Keyboard ✰</b><br> 
       - The G-Lab KeyZ Rubidium E
