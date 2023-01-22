@@ -1,5 +1,8 @@
-### hello,
+### < hello >
+
 <img src="background.jpg">
+
+<img src="http://lescreationsdemarion.fr/menu/motsanimes/textes/barres%20separation/barres%20separation%20page4/sorciere_enroseetcadrerose_joyhalloween_barre.gif">
 
       random@unknowncomputer:~$ ssh kaelynn@xx.xxx.xx.xx
       > Are you sure you want to continue connecting (yes/no)? : y
@@ -25,3 +28,45 @@
       > disconnected
       
       random@unknowncomputer:~$ poweroff
+
+<img src="http://lescreationsdemarion.fr/menu/motsanimes/textes/barres%20separation/barres%20separation%20page4/sorciere_enroseetcadrerose_joyhalloween_barre.gif">
+
+### < what's my setup? >
+<img src="background2.jpg">
+<p>
+      <b>Box ✰</b><br>
+      - Lian Li O11 Dynamic Mini Snow Edition
+      <br>
+      <b>CPU ✰</b><br>
+      - AMD Ryzen 7 5800X 8x16 :: 4.7GHz
+      <br>
+      <b>Motherboard ✰</b><br>
+      - ASUS ROG-STRIX x570-E 2.5GB/s + Aura Sync
+      <br>
+      <b>Memory ✰</b><br>
+      - Corsair Vengeance RGB PRO 2x16 (32Go) 3800MHz
+      <br>
+      <b>GPU ✰</b><br> 
+      - ASUS RTX 3070 12Go
+      <br>
+      <b>Storage ✰</b><br> 
+      - 1xSSD M.2 NVMe "Samsung EvoPLUS 256Go" w/ Windows<br>             
+      - 1xSSD SATA "Crucial MX500 256Go" w/ Debian 11<br> 
+      - 2xHDD SATA WesternDigital "WD Black Edition 1To" & "WD Black Edition 500Go"*
+      <br>
+      <b>Power ✰</b><br> 
+      - Corsair TX750W 80 PLUS Certified Power Supply
+      <br>
+      <b>Aircooling ✰</b><br> 
+      - Cooler Master Hyper 212 RGB Black Edition
+      <br>
+      <b>Desktop ✰</b><br> 
+      - Arozzi ARENA
+      <br>
+      <b>Keyboard ✰</b><br> 
+      - The G-Lab KeyZ Rubidium E
+      <br>
+      <b>Mouse ✰</b><br> 
+      - Logitech G502 Hero
+      
+</p>
