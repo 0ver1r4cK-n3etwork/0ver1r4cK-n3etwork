@@ -1,4 +1,4 @@
-### < hello >
+### < hello random 🩸👁🩸 >
 
 <img src="background.jpg">
 
@@ -31,9 +31,10 @@
 
 <img src="http://lescreationsdemarion.fr/menu/motsanimes/textes/barres%20separation/barres%20separation%20page4/sorciere_enroseetcadrerose_joyhalloween_barre.gif">
 
-### < what's my setup? >
+### < what's my setup? 🦴🦴🪖>
 <img src="background2.jpg">
 <p>
+      <h1>🖥️ my computer</h1>
       <b>Box ✰</b><br>
       - Lian Li O11 Dynamic Mini Snow Edition
       <br>
@@ -60,6 +61,7 @@
       <b>Aircooling ✰</b><br> 
       - Cooler Master Hyper 212 RGB Black Edition
       <br>
+      <h1>⌨️ my peripherals</h1>
       <b>Desktop ✰</b><br> 
       - Arozzi ARENA
       <br>
@@ -72,5 +74,20 @@
       <br>
       <b>Mouse ✰</b><br> 
       - Logitech G502 Hero
+      <br>
+      <h1>❓other</h1>
+      <br>
+      <b>Server NAS ✰</b><br>
+      - HP Server
+      <br>
+      <b>Network ✰</b><br> 
+      - 10Gb/s download :: 700Mb/s upload w/ Free<br>
+      - Ethernet CAT5e (1Gb/s - 10m)<br>
+      - Serveur NAS IP addr: 192.168.1.100<br>
+      - Windows IP addr: 192.168.1.101<br>
+      - Debian IP addr: 192.168.1.102<br>
+      - iPhone IP addr: 192.168.1.103<br>
       
+<img src="http://lescreationsdemarion.fr/menu/motsanimes/textes/barres%20separation/barres%20separation%20page4/sorciere_enroseetcadrerose_joyhalloween_barre.gif">
+
 </p>
