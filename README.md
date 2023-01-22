@@ -1,6 +1,6 @@
 ### < hello random 🩸👁🩸 >
 
-<img src="background.jpg">
+<img src="/assets/background.jpg">
 
 <img src="http://lescreationsdemarion.fr/menu/motsanimes/textes/barres%20separation/barres%20separation%20page4/sorciere_enroseetcadrerose_joyhalloween_barre.gif">
 
@@ -32,7 +32,7 @@
 <img src="http://lescreationsdemarion.fr/menu/motsanimes/textes/barres%20separation/barres%20separation%20page4/sorciere_enroseetcadrerose_joyhalloween_barre.gif">
 
 ### < what's my setup? 🦴🦴🪖>
-<img src="background2.jpg">
+<img src="/assets/background2.jpg">
 <p>
       <h1>🖥️ my computer</h1>
       <b>Box ✰</b><br>
