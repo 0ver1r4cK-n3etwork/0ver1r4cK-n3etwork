@@ -22,7 +22,7 @@
                                                                                                 
       kaelynn@debian:~$ whoami
       > kaelynn (or b33rus on CTFs websites)
-      > i'm 19 yd & i'm a french computer scientist - network admin - pentester - cybersecurity agent
+      > i'm 20 yd & i'm a french computer scientist - network admin - pentester - cybersecurity student
       
       kaelynn@debian:~$ exit
       > disconnected
