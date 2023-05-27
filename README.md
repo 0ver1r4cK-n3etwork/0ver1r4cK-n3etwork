@@ -1,6 +1,6 @@
 
 <h2 align="left">h3ll0!</h2>
-<p>my name is kaelynn, i'm 20 yd. </p>
+<p>my name is kaelynn, i'm 20 yd. I'm a lover computer scientist, sysAdmin, cybersecurity lover<br>i love too my computer</p>
 
 ---
 
