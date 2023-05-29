@@ -14,7 +14,7 @@
 
 <img src="/assets/background2.jpg">
 
-### < my setup >
+### < my setup desc >
 <p>
       <h1>🖥️ my computer</h1>
       <b>Box ✰</b><br>
