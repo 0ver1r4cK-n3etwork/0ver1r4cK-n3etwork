@@ -60,7 +60,7 @@
       <h1>❓other</h1>
       <br>
       <b>Server NAS ✰</b><br>
-      - HP Server
+      - HP WORKSTATION Z420 Windows Server 2019
       <br>
       <b>Network ✰</b><br> 
       - 10Gb/s download :: 700Mb/s upload w/ Free<br>
