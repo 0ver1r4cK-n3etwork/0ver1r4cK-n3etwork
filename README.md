@@ -60,7 +60,7 @@
       <br>
       <h1>❓other</h1>
       <br>
-      <b>Server NAS ✰</b><br>
+      <b>Server & NAS ✰</b><br>
       - HP WORKSTATION Z420 Windows Server 2019
       <br>
       <b>Network ✰</b><br> 
