@@ -35,7 +35,8 @@
       <b>Storage ✰</b><br> 
       - 1x SSD M.2 NVMe "Samsung EvoPLUS 256Go" w/ Windows<br>             
       - 1x SSD SATA "Crucial MX500 256Go" w/ Debian 11<br> 
-      - 2x HDD SATA WesternDigital "WD Black Edition 1To" & "WD Black Edition 500Go"*
+      - 2x HDD SATA WesternDigital "WD Black Edition 1To" & "WD Black Edition 500Go"
+      - (soon) 2x HDD SATA 1To [RAID 1]
       <br>
       <b>Power ✰</b><br> 
       - Corsair TX750W 80 PLUS Certified Power Supply
