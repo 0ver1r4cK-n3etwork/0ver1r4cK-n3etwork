@@ -33,9 +33,11 @@
       - ASUS RTX 3070 12Go
       <br>
       <b>Storage ✰</b><br> 
-      - 1x SSD M.2 NVMe "Samsung EvoPLUS 256Go" w/ Windows<br>             
-      - 1x SSD SATA "Crucial MX500 256Go" w/ Debian 11<br> 
-      - 2x HDD SATA WesternDigital "WD Black Edition 1To" & "WD Black Edition 500Go"<br>
+      - 1x SSD M.2 NVMe "Samsung EvoPLUS 256Go" w/ Windows<br>    
+      - 1x SSD M.2 NVMe "WesternDigital Black Edition 256Go" w/ Debian<br> 
+      - 1x SSD SATA "Crucial MX500 256Go"<br> 
+      - 1x SSD SATA "Crucial MX500 1To"<br>
+      - 2x HDD SATA "WesternDigital Black Edition 1To" & "WesternDigital Black Edition 500Go"<br>
       - (soon) 2x HDD SATA 1To [RAID 1]
       <br>
       <b>Power ✰</b><br> 
