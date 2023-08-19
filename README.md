@@ -38,7 +38,6 @@
       - 1x SSD SATA "Crucial MX500 256Go"<br> 
       - 1x SSD SATA "Crucial MX500 1To"<br>
       - 2x HDD SATA "WesternDigital Black Edition 1To" & "WesternDigital Black Edition 500Go"<br>
-      - (soon) 2x HDD SATA 1To [RAID 1]
       <br>
       <b>Power ✰</b><br> 
       - Corsair TX750W 80 PLUS Certified Power Supply
