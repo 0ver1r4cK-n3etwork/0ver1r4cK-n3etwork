@@ -62,7 +62,7 @@
       <h1>❓other</h1>
       <br>
       <b>Server & NAS ✰</b><br>
-      - Fujitsu Primergy
+      - Fujitsu Primergy<br>
       - NAS Synology DS418 (x4 HDD 2To w/ RAID 10 :p)
       <br>
       <b>Network ✰</b><br> 
