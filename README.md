@@ -62,14 +62,14 @@
       <h1>❓other</h1>
       <br>
       <b>Server & NAS ✰</b><br>
-      - HP WORKSTATION Z420 Windows Server 2019
+      - Fujitsu Primergy
+      - NAS Synology DS418 (x4 HDD 2To w/ RAID 10 :p)
       <br>
       <b>Network ✰</b><br> 
       - 10Gb/s download :: 700Mb/s upload w/ Free<br>
-      - Ethernet CAT5e (1Gb/s - 10m)<br>
       - Serveur NAS IP addr: 192.168.1.100<br>
-      - Windows IP addr: 192.168.1.101<br>
-      - Debian IP addr: 192.168.1.102<br>
+      - ESXi IP addr: 192.168.1.101<br>
+      - Windows IP addr: 192.168.1.102<br>
       - iPhone IP addr: 192.168.1.103<br>
 
 ###
